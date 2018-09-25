@@ -7,6 +7,9 @@
     elsif 
     	x % 5 == 0
     	puts "minds" 
+    elsif 
+    	x % 7 == 0
+    	puts "seven"
 	else
 		puts x
 	end
