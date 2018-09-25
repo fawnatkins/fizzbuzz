@@ -1,7 +1,10 @@
 1.upto(100) do |x|
-	if x % 2 == 0 
-	puts"even"
+	if x % 3 == 0 
+		puts"mined"
+    elsif 
+    	x % 5 == 0
+    	puts "minds" 
 	else
-	puts x
+		puts x
 	end
 end
